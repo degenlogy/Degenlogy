@@ -11,7 +11,7 @@ Alongside development, I have experience in Graphic Design and Video Editing, an
 Skills: <br >HTML <br> CSS <br> AI-Powered Web Development <br> AI Image Generation <br> AI Video Generation <br> AI Tools Integration 
 
 - 🔭 I’m currently working on Youtube 
-- 🌱 I’m currently learning JS & Solidity 
+- 🌱 I’m currently learning Solidity 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: degenlogy69@gmail.com 
 - 😄 Pronouns: Degen 
