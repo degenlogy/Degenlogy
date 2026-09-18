@@ -8,7 +8,7 @@ I’m a Web Developer with a creative design background. I’m comfortable with 
 
 Alongside development, I have experience in Graphic Design and Video Editing, and I’m currently exploring 3D Modeling. I enjoy combining design, code, and AI to turn ideas into useful and visually engaging projects.
 
-Skills: <br >HTML <br> CSS <br> AI-Powered Web Development <br> AI Image Generation <br> AI Video Generation <br> AI Tools Integration 
+Skills: <br >HTML <br> CSS <br> AI-Powered Web Development <br> AI Image Generation <br> AI Video Generation <br> AI Tools Integration <br> Graphic Design <br> Video Editing
 
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning Solidity 
