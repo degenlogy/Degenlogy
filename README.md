@@ -1,4 +1,7 @@
-### Hi👋, I'm Degenlogy 
+<p align="center">
+  <img src="[X_IMAGE_URL_HERE](https://pbs.twimg.com/profile_banners/1671129082321600512/1783973894/600x200)" width="100%" />
+</p>
+## Hi👋, I'm Degenlogy 
 #### Web Developer | AI-Powered Builder
 I’m a Web Developer with a creative design background. I’m comfortable with HTML, CSS and currently learning JavaScript. I use AI-assisted development to build websites, creative tools, image & video-related projects, and other practical digital experiences.
 
