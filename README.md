@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Degenlogy 
+### Hi, I'm Degenlogy 
 #### Web Developer | AI-Powered Builder
 I’m a Web Developer with a creative design background. I’m comfortable with HTML, CSS and currently learning JavaScript. I use AI-assisted development to build websites, creative tools, image & video-related projects, and other practical digital experiences.
 
