@@ -1,4 +1,4 @@
-![Web Developer | AI-Powered Builder](https://pbs.twimg.com/profile_banners/1671129082321600512/1783973894/800x400)
+![Web Developer | AI-Powered Builder](https://pbs.twimg.com/profile_banners/1671129082321600512/1783973894/600x200)
 
 ### Hi there 👋, I'm Degenlogy 
 #### Web Developer | AI-Powered Builder
